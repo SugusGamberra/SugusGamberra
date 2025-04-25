@@ -1,7 +1,9 @@
-## escribir saludo
+## Holiii!
 
-escribir "titulaciones" modo liista con iconos jiji
-se pueden añadir links
+🔬 Técnico de laboratorio
+🤖​ RPA (UIPath)
+💻​ Ofimática en la nube
+👾 IA
 
 
 ## 🌐 Socials:
