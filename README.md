@@ -1,9 +1,9 @@
 ## Holiii!
 
-🔬 Técnico de laboratorio
-🤖​ RPA (UIPath)
-💻​ Ofimática en la nube
-👾 IA
+##🔬 Técnico de laboratorio 
+##🤖​ RPA (UIPath)
+##💻​ Ofimática en la nube
+##👾 IA
 
 
 ## 🌐 Socials:
