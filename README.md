@@ -1,7 +1,7 @@
 ## Holiii! Encantada, soy Sugus! Tengo muchos planes relativos a Minecraft para hacer por aquí, espero encontrar tiempo libre y empezar a crear mods jiji
 
 # 💫 Sobre mí:
-🔬 Técnico de laboratorio<br>💻​ Ofimática en la nube<br>🤖​ Aprendiendo: RPA (UIPath)<br>👾 Aprendiendo: IA (ingeniera de prompts)
+🔬 Técnico de laboratorio<br>💻​ Ofimática en la nube<br>🤖​ Automatización de procesos: RPA (UIPath)<br>👾 Especialista en prompts
 
 
 ## 🌐 Socials:
