@@ -33,7 +33,7 @@
 
 # 💜​ RPA:
 
-Visual Basic (VB) + UIPath Studio
+Visual Basic (VB) + [UIPath Studio](https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white)
 
 # 📊 Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sugusgamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
