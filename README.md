@@ -5,7 +5,7 @@
 
 
 ## 🌐 RRSS:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sugusgamberra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/patriciagarcíalópez
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sugusgamberra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/patriciagarcíalópez](https://www.linkedin.com/in/patriciagarcíalópez)
 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sugusgamberra) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sugusgamberra) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SugusGamberra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patriciagarcialopez858@gmail.com) 
 
 # 👩🏻‍💻​ Lenguajes de programación:
