@@ -41,10 +41,10 @@
 
 Visual Basic (VB) + ![UIPath Studio](https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white)
 
-# 📊 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=sugusgamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sugusgamberra&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugusgamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SugusGamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SugusGamberra&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SugusGamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Frase random de devs
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
