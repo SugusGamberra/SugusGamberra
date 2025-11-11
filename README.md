@@ -42,7 +42,6 @@
 Visual Basic (VB) + ![UIPath Studio](https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SugusGamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SugusGamberra&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SugusGamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
