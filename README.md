@@ -48,6 +48,10 @@ Visual Basic (VB) + ![UIPath Studio](https://img.shields.io/badge/UiPath-FA4616.
 ### ✍️ Frase random de devs
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+### 🤍 Música
+
+La música que me ayuda a programar y experimentar 🫦
+![Mi canción actual en Spotify](https://spotify-widget-psi.vercel.app/api/badge?userId=c9cay0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=sugusgamberra&icon=4&color=0)](https://visitcount.itsvg.in)
