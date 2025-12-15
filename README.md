@@ -52,7 +52,7 @@ Visual Basic (VB) + ![UIPath Studio](https://img.shields.io/badge/UiPath-FA4616.
 
 La música que me ayuda a programar y experimentar 🫦
 
-![Musica en directo en Spotify](https://spotify-widget-psi.vercel.app/api/badge?userId=8qnmhr&cachebreaker=2)
+![Musica en directo en Spotify](https://spotify-widget-psi.vercel.app/?uid=8qnmhr)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=sugusgamberra&icon=4&color=0)](https://visitcount.itsvg.in)
