@@ -9,25 +9,22 @@ Soy una <strong>web dev</strong> de mente curiosa que empecé siendo autodidacta
 Actualemente me centro en el desarrollo de aplicaciones web y estoy explorando a tope el mundo de la <strong>ciberseguridad</strong> <img src="./assets/dormilona.png" width="25" align="center" />
 
 <!-- SOBRE MI -->
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none;">
-      <h3><img src="./assets/pug.gif" width="25" align="center" /> Titulaciones:</h3>
-      <img src="./assets/cora.gif" width="15" align="center" /> Diseño de Aplicaciones Web (fullstack)<br>
-      <img src="./assets/cora.gif" width="15" align="center" /> Automatización de procesos: RPA (UIPath)<br>
-      <img src="./assets/cora.gif" width="15" align="center" /> Ofimática en la nube e IA<br>
-      <img src="./assets/cora.gif" width="15" align="center" /> (También soy técnica de laboratorio)
-      <br><br>
-      <b><img src="./assets/rrss.gif" width="25" align="center"> RRSS:</b><br>
-      <a href="https://instagram.com/sugusgamberra"><img src="https://img.shields.io/badge/Instagram-%23FFB3BA.svg?style=flat&logo=Instagram&logoColor=%23E4405F" /></a>
-      <a href="mailto:sugusgamberra@gmail.com"><img src="https://img.shields.io/badge/Email-%23FFB3BA.svg?style=flat&logo=gmail&logoColor=%23D14836" /></a>
-    </td>
-    <td width="35%" align="center" valign="middle" style="border: none;">
-      <!-- foto perfil -->
-      <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/125316695&mask=circle" width="200" alt="yop">
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="right" src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/125316695&mask=circle" width="200" alt="yop" style="margin-left: 20px;">
+
+  <h3><img src="./assets/pug.gif" width="25" align="center" /> Titulaciones:</h3>
+  <img src="./assets/cora.gif" width="15" align="center" /> Diseño de Aplicaciones Web (fullstack)<br>
+  <img src="./assets/cora.gif" width="15" align="center" /> Automatización de procesos: RPA (UIPath)<br>
+  <img src="./assets/cora.gif" width="15" align="center" /> Ofimática en la nube e IA<br>
+  <img src="./assets/cora.gif" width="15" align="center" /> (También soy técnica de laboratorio)
+  <br><br>
+  
+  <b><img src="./assets/rrss.gif" width="25" align="center"> RRSS:</b><br>
+  <a href="https://instagram.com/sugusgamberra"><img src="https://img.shields.io/badge/Instagram-%23FFB3BA.svg?style=flat&logo=Instagram&logoColor=%23E4405F" /></a>
+  <a href="mailto:sugusgamberra@gmail.com"><img src="https://img.shields.io/badge/Email-%23FFB3BA.svg?style=flat&logo=gmail&logoColor=%23D14836" /></a>
+</div>
+
+<br clear="both">
 
 <!-- APARTADO WEB DEV (MAIN STACK) -->
 <h3><img src="./assets/calcifer.gif" width="25" align="center" /> Web Dev Stack</h3>
