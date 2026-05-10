@@ -10,7 +10,7 @@ Actualemente me centro en el desarrollo de aplicaciones web y estoy explorando a
 
 <!-- SOBRE MI -->
 <div>
-  <img align="right" src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/125316695&mask=circle" width="200" alt="yop" style="margin-left: 20px;">
+  <img align="right" src="./assets/foto.png" width="200" alt="yop" style="margin-left: 20px;">
 
   <h3><img src="./assets/pug.gif" width="25" align="center" /> Titulaciones:</h3>
   <img src="./assets/cora.gif" width="15" align="center" /> Diseño de Aplicaciones Web (fullstack)<br>
