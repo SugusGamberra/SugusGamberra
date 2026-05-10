@@ -1,60 +1,112 @@
-## Holiii! Encantada, soy Sugus! Una dev en proceso de titularse oficialmente. He dedicado estos últimos años a desarrollar mis habilidades y pasión por la programación tanto de forma autodidacta, como cursos y, finalmente, titulándome! Un abrazote ;D
+<!-- ESPACIO BANNER SUPERIOR -->
+<div align="center">
+  <img src="./assets/banner-github.png" width="100%" alt="Banner SugusGamberra">
+</div>
 
-# 💫 Sobre mí:
-👾 Diseño de Aplicaciones Web y aspirante a fullstack<br>💻​ Ofimática en la nube e IA<br>🤖​ Automatización de procesos: RPA (UIPath)<br>🔬 (También soy técnico de laboratorio jeje)
+## Encantada, soy Sugus! <img src="./assets/cinnamoroll.gif" width="55" align="center" />
+Soy una <strong>web dev</strong> de mente curiosa que empecé siendo autodidacta y ahora estoy en proceso de titularme oficialmente en Desarrollo de Aplicaciones Web (DAW). Mi camino en la programación mezcla la lógica estricta del código con mucha intuición, intentando siempre crear proyectos que tengan alma y sentido.
 
+Actualemente me centro en el desarrollo de aplicaciones web y estoy explorando a tope el mundo de la <strong>ciberseguridad</strong> <img src="./assets/dormilona.png" width="25" align="center" />
 
-## 🌐 RRSS:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sugusgamberra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patriciagarcíalópez) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sugusgamberra) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sugusgamberra) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/SugusGamberra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patriciagarcialopez858@gmail.com) [![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=plastic)](https://sugusgamberra.github.io)
+<!-- SOBRE MI -->
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="65%" valign="top" style="border: none;">
+      <h3><img src="./assets/pug.gif" width="25" align="center" /> Titulaciones:</h3>
+      <img src="./assets/cora.gif" width="15" align="center" /> Diseño de Aplicaciones Web (fullstack)<br>
+      <img src="./assets/cora.gif" width="15" align="center" /> Automatización de procesos: RPA (UIPath)<br>
+      <img src="./assets/cora.gif" width="15" align="center" /> Ofimática en la nube e IA<br>
+      <img src="./assets/cora.gif" width="15" align="center" /> (También soy técnica de laboratorio)
+      <br><br>
+      <b><img src="./assets/rrss.gif" width="25" align="center"> RRSS:</b><br>
+      <a href="https://instagram.com/sugusgamberra"><img src="https://img.shields.io/badge/Instagram-%23FFB3BA.svg?style=flat&logo=Instagram&logoColor=%23E4405F" /></a>
+      <a href="mailto:sugusgamberra@gmail.com"><img src="https://img.shields.io/badge/Email-%23FFB3BA.svg?style=flat&logo=gmail&logoColor=%23D14836" /></a>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <!-- foto perfil -->
+      <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/125316695&mask=circle" width="200" alt="yop">
+    </td>
+  </tr>
+</table>
 
-# 👩🏻‍💻​ Lenguajes de programación:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+<!-- APARTADO WEB DEV (MAIN STACK) -->
+<h3><img src="./assets/calcifer.gif" width="25" align="center" /> Web Dev Stack</h3>
+<p>Mi ecosistema principal para el desarrollo de interfaces y aplicaciones:</p>
 
-# 🌐​ Lenguajes de marcado y estilo:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) 
+**<img src="./assets/cohete.gif" width="15" align="center" /> Core & Frameworks:**<br>
+![Astro](https://img.shields.io/badge/Astro-%23FFDFBA.svg?style=flat&logo=astro&logoColor=%23FF5D01)
+![React](https://img.shields.io/badge/React-%23BAE1FF.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-%23BAFFC9.svg?style=flat&logo=tailwind-css&logoColor=%2338B2AC)
+![Node.js](https://img.shields.io/badge/Node.js-%23BAFFC9.svg?style=flat&logo=nodedotjs&logoColor=%235FA04E)
 
-# 🛠️​ Frameworks:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+**<img src="./assets/laptop.gif" width="15" align="center" /> Lenguajes:**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FFFFBA.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23BAE1FF.svg?style=flat&logo=typescript&logoColor=%233178C6)
+![HTML5](https://img.shields.io/badge/HTML5-%23FFDFBA.svg?style=flat&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-%23BAE1FF.svg?style=flat&logo=css&logoColor=%231572B6)
 
-# 🤖 Artificial Intelligence:
+**🗄️ BBDD:**<br>
+![Supabase](https://img.shields.io/badge/Supabase-%23BAFFC9.svg?style=flat&logo=supabase&logoColor=%233ECF8E)
 
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+<!-- APARTADO CIBERSEGURIDAD -->
+<h3><img src="./assets/gatete.gif" width="25" align="center" /> Ciberseguridad</h3>
+<p>Explorando el lado oscuro de la fuerza (con fines éticos 🥷). Este es mi rincón para explorar sistemas, automatizar y aprender sobre seguridad:</p>
 
-# 💻 Editores de código (IDEs):
+**<img src="./assets/pc.gif" width="15" align="center" /> Sistemas Operativos favoritos:**<br>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23BAE1FF?style=flat&logo=kalilinux&logoColor=black)
+![Parrot Security](https://img.shields.io/badge/Parrot_Security-%23BAFFC9?style=flat&logo=parrotsecurity&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-%23BAE1FF?style=flat&logo=arch-linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-%23BAE1FF?style=flat&logo=fedora&logoColor=black)
 
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#) [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+**<img src="./assets/fsociety.gif" width="15" align="center" /> Terminal & Scripting:**<br>
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-%23FFFFBA?style=flat&logo=gnubash&logoColor=%234EAA25)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%23E0E0E0?style=flat&logo=alienware&logoColor=%234D4D4D)
+![Python](https://img.shields.io/badge/Python-%23E0E0E0?style=flat&logo=python&logoColor=%234D4D4D)
 
+<!-- GITHUB STATS Y CONTADOR D LENGUAJES MAS USADOS -->
+### <img src="./assets/pug-corriendo.gif" width="25" vertical-align="middle" /> GitHub Stats
 
-# 🎮 Ocio:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SugusGamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) ![](https://streak-stats.demolab.com/?user=SugusGamberra&theme=transparent&hide_border=true)
 
-[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) [![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#) [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)
+<!-- BANNER INFERIOR -->
+<div align="center">
+  <img src="./assets/istillloveyou.gif" width="300" alt="Banner Extras">
+</div>
 
-# 🖥️ SOs preferidos:
+<!-- EXTRAS -->
+<h3><img src="./assets/cinnamoroll-1.gif" width="25" align="center" /> El Baúl de los Extras</h3>
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat-square) [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) ![Parrot Security Badge](https://img.shields.io/badge/Parrot%20Security-15E0ED?logo=parrotsecurity&logoColor=000&style=flat)
+**<img src="./assets/estrella.gif" width="15" align="center" /> Otros lenguajes:**<br>
+![C#](https://img.shields.io/badge/c%23-%23E0E0E0.svg?style=flat&logo=csharp&logoColor=%23239120) 
+![Java](https://img.shields.io/badge/java-%23E0E0E0.svg?style=flat&logo=openjdk&logoColor=%23ED8B00)
+![PHP](https://img.shields.io/badge/php-%23E0E0E0.svg?style=flat&logo=php&logoColor=%23777BB4) 
+![C++](https://img.shields.io/badge/c++-%23E0E0E0.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C) 
+![Pug](https://img.shields.io/badge/Pug-%23E0E0E0.svg?style=flat&logo=pug&logoColor=%23A86454)
 
-# 🩵​ Otros:
+**<img src="./assets/estrella.gif" width="15" align="center" /> RPA & Otros Frameworks:**<br>
+![.Net](https://img.shields.io/badge/.NET-%23E0E0E0.svg?style=flat&logo=.net&logoColor=%235C2D91)
+![VB](https://img.shields.io/badge/VisualBasic-%23E0E0E0.svg?style=flat&logo=vb&logoColor=%235C2D91) ![UIPath Studio](https://img.shields.io/badge/UiPath-%23E0E0E0.svg?style=flat&logo=UiPath&logoColor=%23FA4616)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=for-the-badge) ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square)
+**<img src="./assets/estrella.gif" width="15" align="center" /> Artificial Intelligence:**<br>
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-%23E0E0E0?style=flat&logo=googlegemini&logoColor=%23886FBF)
+![Claude](https://img.shields.io/badge/Claude-%23E0E0E0?style=flat&logo=claude&logoColor=%23D97757)
 
-# 💜​ RPA:
+**<img src="./assets/estrella.gif" width="15" align="center" /> IDEs & Tools:**<br>
+![VS Code](https://img.shields.io/badge/VS_Code-%23E0E0E0.svg?style=flat&logo=visual-studio-code&logoColor=%230078d7)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-%23E0E0E0.svg?style=flat&logo=visualstudio&logoColor=%235C2D91)
+![Docker](https://img.shields.io/badge/docker-%23E0E0E0.svg?style=flat&logo=docker&logoColor=%230db7ed)
+![Git](https://img.shields.io/badge/git-%23E0E0E0.svg?style=flat&logo=git&logoColor=%23F05033)
 
-Visual Basic (VB) + ![UIPath Studio](https://img.shields.io/badge/UiPath-FA4616.svg?style=for-the-badge&logo=UiPath&logoColor=white)
+**<img src="./assets/estrella.gif" width="15" align="center" /> Ocio y Varios:**<br>
+<a href="https://spotify-widget-psi.vercel.app/?uid=8qnmhr"><img src="https://img.shields.io/badge/Spotify-%23E0E0E0?style=flat&logo=spotify&logoColor=%231ED760" /></a>
+![Steam](https://img.shields.io/badge/Steam-%23E0E0E0.svg?style=flat&logo=steam&logoColor=%23000000)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=SugusGamberra&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SugusGamberra&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-### ✍️ Frase random de devs
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<p align="center">
+  <img src="./assets/raton.gif" width="50%" alt="banner ratita">
+</p>
 
-### 🤍 Música
-
-La música que me ayuda a programar y experimentar 🫦
-
-[Musica en directo en Spotify](https://spotify-widget-psi.vercel.app/?uid=8qnmhr)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=sugusgamberra&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sugusgamberra&style=flat-square&color=ffb3ba" />
+</div>
