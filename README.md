@@ -65,7 +65,7 @@ A nivel espiritual, me encanta la interpretación de runas y coleccionar mineral
 
 <!-- APARTADO CIBERSEGURIDAD -->
 <h3><img src="https://baticueva-ogda.vercel.app/assets/gatete.gif" width="25" align="center" /> Ciberseguridad</h3>
-<p>Explorando el lado oscuro de la fuerza (con fines éticos 🥷). Este es mi rincón para explorar sistemas, automatizar y aprender sobre seguridad:</p>
+<p>Explorando el lado oscuro de la fuerza (con fines éticos). Este es mi rincón para explorar sistemas, automatizar y aprender sobre seguridad:</p>
 
 **<img src="https://baticueva-ogda.vercel.app/assets/pc.gif" width="15" align="center" /> Sistemas Operativos favoritos:**<br>
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23BAE1FF?style=flat&logo=kalilinux&logoColor=black)
