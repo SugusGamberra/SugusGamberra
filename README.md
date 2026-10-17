@@ -17,10 +17,11 @@
 <br>
 
 <!-- RRSS -->
-<a href="https://instagram.com/sugusgamberra"><img src="https://img.shields.io/badge/Instagram-F0F8FF?style=for-the-badge&logo=instagram&logoColor=4A6572" alt="Instagram"></a>&nbsp;&nbsp;
-<a href="mailto:sugusgamberra@gmail.com"><img src="https://img.shields.io/badge/Email-F0F8FF?style=for-the-badge&logo=gmail&logoColor=4A6572" alt="Email"></a>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=SugusGamberra&style=flat&color=A9D0F5&label=visitas+al+perfil" alt="profile views">
+<div>
+  <a href="https://instagram.com/sugusgamberra"><img src="https://img.shields.io/badge/Instagram-F0F8FF?style=for-the-badge&logo=instagram&logoColor=4A6572" alt="Instagram"></a>&nbsp;&nbsp;
+  <a href="mailto:sugusgamberra@gmail.com"><img src="https://img.shields.io/badge/Email-F0F8FF?style=for-the-badge&logo=gmail&logoColor=4A6572" alt="Email"></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=SugusGamberra&style=flat&color=A9D0F5&label=visitas+al+perfil" alt="profile views">
 </div>
 
 ## Encantada, soy Sugus! <img src="https://baticueva-ogda.vercel.app/assets/cinnamoroll.gif" width="55" align="absmiddle" />
